@@ -22,7 +22,7 @@ Ultima is built using the following core technologies, primarily focused on Java
 
 | Component | Technology | Description |
 | :--- | :--- | :--- |
-| **Frontend** | **JavaScript, HTML, CSS** | The user-facing application. (Likely using a framework like **React**). |
+| **Frontend** | **JavaScript, HTML, CSS, React** | The user-facing application. |
 | **Backend** | **Node.js, Express** | The server-side environment for handling requests and routing. |
 | **Database** | **MongoDB** | A NoSQL database for flexible and high-performance data storage. |
 
